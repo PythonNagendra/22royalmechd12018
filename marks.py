@@ -1,4 +1,3 @@
-Input
 marks=int(input("enter your marks:"))
 if(marks>90):
 	print("A+")
@@ -13,6 +12,4 @@ elif(marks>40):
 elif(marks<40):
 	print("fail")
 
-Output 
-Enter the marks=90
-Grade=A+
+
